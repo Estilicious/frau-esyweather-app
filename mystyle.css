@@ -1,7 +1,11 @@
 body {
   font-family: "PT Mono", monospace;
-  margin: 50px;
-  color: #392e41cb;
+  margin: 30px auto;
+  padding: 20px;
+  border: 1px solid #0e1f26;
+  max-width: 600px;
+  border-radius: 50px;
+  color: #262329cb;
   background: #c8b7bf;
 }
 strong {
